@@ -1,0 +1,10 @@
+# Visual Studio / C++
+.vs/
+x64/
+Debug/
+Release/
+
+*.exe
+*.obj
+*.pdb
+*.ilk
